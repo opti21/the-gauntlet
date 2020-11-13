@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_text_teck_blocks",
+  "info": {
+    "name": "Teck Block",
+    "icon": "align-left"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "content": {
+      "type": "richtext"
+    }
+  }
+}
